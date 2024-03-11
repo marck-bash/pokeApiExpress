@@ -1,4 +1,4 @@
-[
+const pokemonApi = [
 	{
 		"name": "bulbasaur",
 		"height": 7,
@@ -189,3 +189,5 @@
 		"weight": 185
 	}
 ]
+
+export default pokemonApi;
